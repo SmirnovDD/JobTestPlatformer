@@ -32,8 +32,7 @@ namespace JobTest.Common.Infrastructure
             _levelInstaller = FindObjectOfType<LevelInstaller>();
             _appearOnEnemiesDeadKey = FindObjectOfType<AppearOnEnemiesDead>();
             _appearOnKeyCollectedDoor = FindObjectOfType<AppearOnKeyTaken>();
-            _key = FindObjectOfType<Key>();
-            _gameController.OnGameStart();
+            _key = FindObjectOfType<Key>();          
         }
 
         private void Start()
@@ -41,6 +40,8 @@ namespace JobTest.Common.Infrastructure
             SetCameraTarget();
             SetEventForKey();
             SetEventForDoor();
+
+            _gameController.OnGameStart();
         }
         
         private void SetCameraTarget() 
