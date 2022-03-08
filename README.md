@@ -4,7 +4,7 @@ HELLO, PLEASE READ THIS FILE
 
 This is my attempt at completing a test task. I have some important things to tell about it:
 
-1. I don`t have a gamepad, I used a new input system which should work. But I didn`t test it.
+1. I do not have a gamepad, I used a new input system which should work. But I didn`t test it.
 2. I did not try to make this project perfect, because it would take too much time. My goal was to show the programming principles that I know. I deliberately made
 things "correctly" in some places and cut corners in others.
 3. I`m aware, that there are some bugs in the project, once again, my goal was not to make everything perfect here. I could easily spend a couple of weeks making
