@@ -7,9 +7,9 @@ This is my attempt at completing a test task. I have some important things to te
 1. I do not have a gamepad, I used a new input system which should work. But I didn`t test it.
 2. I did not try to make this project perfect, because it would take too much time. My goal was to show the programming principles that I know. I deliberately made
 things "correctly" in some places and cut corners in others.
-3. I`m aware, that there are some bugs in the project, once again, my goal was not to make everything perfect here. I could easily spend a couple of weeks making
+3. I am aware, that there are some bugs in the project, once again, my goal was not to make everything perfect here. I could easily spend a couple of weeks making
 every system "correct".
-Here are some things, that I would`ve done if it was a real project:
+Here are some things, that I would have done if it was a real project:
 - make my own character controller to prevent problems with collision detection (like standing on top of enemies)
 - make proper support for multiple levels, without references in scene
 - improve Ui WIndows system
